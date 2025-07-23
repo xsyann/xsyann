@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yann Koëth</h1>
-<h3 align="center">Fullstack Developer from France</h3>
+<h3 align="center">Fullstack Software Engineer from France</h3>
 
-- 🔭 I’m currently working at [Refty](https://www.refty.co/)
+- 🔭 I’m currently working as Freelance
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yann-koeth](https://www.linkedin.com/in/yann-koeth)
 
